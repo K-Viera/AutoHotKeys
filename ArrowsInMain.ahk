@@ -18,3 +18,15 @@ return
 #!k::
 Send, {Down}
 return
+
+#!n::
+Send, ñ
+return
+
+#!u::
+Send, {BackSpace}
+return
+
+#!o::
+Send, {Delete}
+return
